@@ -5,9 +5,14 @@ Colocando alguns estudos em prática com um pequeno projeto de Engenharia de Dad
 ![Diagrama02](https://user-images.githubusercontent.com/115668126/229661801-96b7cf74-cb63-47c4-aecb-46019c635a67.png)
 
 ### *Análise Geral - Projeto de Engenharia de Dados para estudo*
-- Efetuar o download de arquivos da web com Python.
-- Inserir dados de um dataframe na cloud Azure com Azure SQL Database.
-- Efetuar transformações nos dados com Azure Data Factory.
+
+Neste projeto organizado em três fases sequenciais, na primeira etapa, faremos o download de um arquivo de algum site da web, utilizando Python para a obtenção do arquivo em formato .csv, .txt ou outro. 
+
+Em seguida, na segunda etapa, os dados serão inseridos em uma base de dados da Cloud Azure, utilizando o serviço Azure SQL Database para realizar a ingestão dos dados na nuvem. 
+
+Por fim, na terceira etapa, serão efetuadas algumas transformações nos dados, como alteração de tipos de colunas e agrupamentos, utilizando o Azure Data Factory. 
+
+Esse processo permitirá otimizar e preparar os dados para análises e insights valiosos, utilizando as ferramentas e recursos da plataforma Azure.
 
 
 
